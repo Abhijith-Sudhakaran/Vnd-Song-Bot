@@ -4,7 +4,7 @@
 import os
 import requests
 import aiohttp
-import yt-dlp
+import youtube_dl
 
 from VDSongBot import SDbot as app
 from pyrogram import filters, Client
